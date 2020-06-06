@@ -222,3 +222,4 @@ https://blog.hubspot.com/marketing/fantastic-landing-page-examples
 https://www.freecodecamp.org/forum/t/product-landing-page-email-submit/204188/3
 https://www.freecodecamp.org/forum/t/product-landing-page-email-submit/204188
 https://www.freecodecamp.org/t/product-landing-page-email-submit/204188
+https://stackoverflow.com/questions/24892035/how-can-i-get-the-named-parameters-from-a-url-using-flask
